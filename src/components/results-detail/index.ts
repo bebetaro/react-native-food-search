@@ -1,0 +1,1 @@
+export { ResultsDetail } from "./component";
